@@ -1,0 +1,6 @@
+# 构建产物（发布用 zip 可自行重新打包，无需入库）
+*.zip
+
+# Python
+__pycache__/
+*.pyc
